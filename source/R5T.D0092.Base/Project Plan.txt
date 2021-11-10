@@ -1,0 +1,3 @@
+R5T.D0092.Base - Service definitions for IServicesProviderConfigurer service.
+
+GOALS:

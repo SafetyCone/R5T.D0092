@@ -1,0 +1,3 @@
+R5T.D0092.Construction - Construction project for IServicesProviderConfigurer service..
+
+GOALS:
